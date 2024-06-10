@@ -1,4 +1,10 @@
 pandas
 numpy
 seaborn
+matplotlib
+plotly
+tensorflow
+scikit-learn
+joblib
 -e .
+setuptools~=70.0.0
